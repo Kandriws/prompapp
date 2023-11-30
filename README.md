@@ -1,4 +1,4 @@
-# Proyecto XYZ - Guía de Inicio
+# Proyecto prompapp - Guía de Inicio
 
 ¡Bienvenido a Proyecto XYZ! Esta guía te ayudará a poner en marcha el proyecto de manera rápida y sencilla. Asegúrate de seguir cada paso detallado a continuación.
 
